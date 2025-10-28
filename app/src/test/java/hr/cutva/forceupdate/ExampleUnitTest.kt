@@ -1,4 +1,4 @@
-package hr.cutva.playground
+package hr.cutva.forceupdate
 
 import org.junit.Test
 
